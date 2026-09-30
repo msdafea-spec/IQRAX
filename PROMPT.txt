@@ -1,1 +1,1 @@
-Study the attached zip file and empirical results, then list each failure in this chat between me and you, the IQRAX control that would have caught them and resolved at source.
+Study the attached PDF and its controls and remediation mechanisms. Then identify and list each failure in this conversation, the IQRAX control that would have caught it, and what that control would have logged and fixed.
